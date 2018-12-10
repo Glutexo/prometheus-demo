@@ -9,6 +9,8 @@ verify_ssl = true
 prometheus-client = "*"
 flask = "*"
 uwsgi = "*"
+connexion = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
